@@ -1,8 +1,9 @@
 # Site settings
-title: HillCyber
+title:
 email: info@hillcyber.com
 url: https://HillCyber.github.io
-description: "As rapidly evolving cyber threats spread online, our network-level technology protects your digital assets. By monitoring activity, we provide full coverage of networks, computers and Internet of Things (IoT) devices, closing security gaps that can expose your data. Our training and data solutions ensure that your networks as well as the people who depend on them are resilient. Dramatically improve your organization’s security without the drama."
+description: "Advanced Cyber - Network Assurance - Data Security
+FOR EVERY NETWORK, FOR EVERY ORGANIZATION, FOR EVERYONE"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -15,15 +16,9 @@ footer: HillCyber
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: https://twitter.com/SBootstrap
+    url: https://twitter.com/TheHillCyber
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
+    url: https://www.facebook.com/HillCyber-234443477017662/
 
 # Build settings
 markdown: kramdown
