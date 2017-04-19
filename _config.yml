@@ -10,9 +10,9 @@ collections:
     output: true
 email: info@hillcyber.com
 url: https://HillCyber.com
-description: |-
-  Advanced Cyber - Network Assurance - Data Security
-  FOR EVERY NETWORK, FOR EVERY ORGANIZATION, FOR EVERYONE
+description:
+  Advanced Cyber - Network Assurance - Data Security <br/>
+  <strong> FOR EVERY NETWORK, FOR EVERY ORGANIZATION, FOR EVERYONE </strong>
 color:
   primary-dark: "#000000"
   links: "#219ab3"
