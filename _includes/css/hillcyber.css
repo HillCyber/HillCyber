@@ -1,0 +1,29 @@
+/*!
+ * HillCyber-specific CSS
+ */
+
+flag {
+ font-family: "Poppins", sans-serif;
+ display: block;
+ float: none;
+ height: auto;
+ padding: 0.625em 1.9375em;
+ margin: 0;
+ background: none;
+ letter-spacing: 0.0625em;
+ text-transform: capitalize;
+ white-space: normal;
+ font-weight: 300;
+ line-height: 1.9;
+ background-color: #f5a623;
+ -webkit-transition: background-color 0.2s ease-out;
+ -o-transition: background-color 0.2s ease-out;
+ transition: background-color 0.2s ease-out;
+ display: inline-block;
+ height: auto;
+ padding: 0.5em;
+ background-image: none;
+ text-align: center;
+ border-radius: 25px;
+}
+
