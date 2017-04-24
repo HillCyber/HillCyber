@@ -26,4 +26,20 @@ flag {
  text-align: center;
  border-radius: 25px;
 }
+.services {
+ text-align:left;
+ font-size:18px;
+ font-weight: 300;
+ line-height: 1.9;
+ list-style-type: none;
+ margin: 0;
+ padding: 0;
+ display: block;
+ float: none;
+ height: auto;
+ padding: 0.25em .4em;
+ margin: 0;
+ background: none;
+ letter-spacing: 0.0625em;
+}
 
