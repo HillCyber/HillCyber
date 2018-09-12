@@ -1,6 +1,6 @@
 ---
 title: HillCyber
-timezone: UTC
+timezone: "America/New_York"
 collections:
   posts:
     title: Posts
@@ -17,6 +17,16 @@ cto_linkedin: https://www.linkedin.com/in/mattwebster
 description:
   Advanced Cyber - Network Assurance - Data Security <br/><br/>
   <flag> MILITARY-GRADE CYBER FOR EVERY NETWORK, FOR EVERY ORGANIZATION, FOR EVERYONE </flag>
+description-beta:
+  Advanced Cyber - IT Infrastructure - Physical Security <br/><br/>
+  <flag>
+    Unified IT Cybersecurity Platform <br/>
+    HillCyber's technology <br/>
+    Successfully tested at the Pentagon's advance research agency <br/>
+    Scalable for every organization. <br/>
+    <br/>
+    Full IT services, with cybersecurity backed in at every layer<br/>
+  </flag>
 color:
   primary-dark: "#000000"
   links: "#219ab3"
